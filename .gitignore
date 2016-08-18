@@ -1,0 +1,12 @@
+# backup
+*~
+# swap
+*.swp
+# python
+*.pyc
+# R
+.RData
+.Rhistory
+.Rproj.user
+# nfs
+.nfs*
