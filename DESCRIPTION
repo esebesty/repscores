@@ -5,6 +5,6 @@ Version: 0.1.0
 Author: Endre Sebestyen
 Maintainer: Endre Sebestyen <endre.sebestyen@gmail.com>
 Description: Calculate various reproducibility scores. Currently implements the SERE and npIDR scores.
-License: MIT
+License: MIT + file LICENSE
 LazyData: TRUE
 Suggests: testthat
